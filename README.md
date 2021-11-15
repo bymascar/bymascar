@@ -12,13 +12,21 @@
 
 
 </p> </div>
-<div align="center"<a target="_blank" a href="https://t.me/mascar"><img src="https://i.hizliresim.com/b98g9ni.png" alt="Telegram" size="10" height="30"></img></a>
- 
+<div align="center">
+<a target="_blank" a href="https://t.me/mascar"><img src="https://i.hizliresim.com/b98g9ni.png" alt="Telegram" size="10" height="30"></img></a>
 <a target="_blank" a href="https://instagram.com/masc1x">
- <img src="https://i.hizliresim.com/7jl0wov.png" alt="İnstagram" size="10" height="30"></img></a>
-<a target="_blank" a href="https://twitter.com/CyberTrk2">
+<img src="https://i.hizliresim.com/7jl0wov.png" alt="İnstagram" size="10" height="30"></img></a>
+ <a target="_blank" a href="https://twitter.com/CyberTrk2">
+<img src="https://i.hizliresim.com/7jcmoei.png" alt="Twitter" size="10" height="30"></img></a> </div>  
 
- <img src="https://i.hizliresim.com/7jcmoei.png" alt="Twitter" size="10" height="30"></img></a> </div>     
+
+
+
+    
+
+ 
+     
+
                                                                                            
  
 
