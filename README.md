@@ -1,4 +1,5 @@
-<img src="https://i.hizliresim.com/n2f9ubo.jpeg"></img>
+<div align="center"><img src="https://i.hizliresim.com/8pzu2da.gif" widht="120" height="120"></img>
+</div>
 <div align="center"><p>hi I mascar. 
 
  I'm a Web development expert. 
@@ -19,6 +20,8 @@
  <a target="_blank" a href="https://twitter.com/CyberTrk2">
 <img src="https://i.hizliresim.com/7jcmoei.png" alt="Twitter" size="10" height="30"></img></a> </div>  
 
+<div align="center">
+<img src="https://i.hizliresim.com/otrep5j.jpeg" width="500" height="100" ></img></div>
 
 
 
