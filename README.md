@@ -2,7 +2,7 @@
 - hi I mascar. 
 - I'm a Web development expert. 
 - I would like to present you with great projects through bymascar profile. 
-<-- This file is WhoamI.md folder that cannot be copied or downloaded for file purposes -->
+<-- This file is README.md folder that cannot be copied or downloaded for file purposes -->
 
  - admin@ilkerdaglioglu.ml. You can contact me via this email.
 
